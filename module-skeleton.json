@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-invoices-and-documents-vue-inertia",
+  "capabilityKey": "planned:ecommerce:invoices-and-documents",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-ecommerce-invoices-and-documents-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/ecommerce/nextjs/invoices-and-documents.md",
+  "presentationPlan": "projects/ecommerce/vue/invoices-and-documents.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
